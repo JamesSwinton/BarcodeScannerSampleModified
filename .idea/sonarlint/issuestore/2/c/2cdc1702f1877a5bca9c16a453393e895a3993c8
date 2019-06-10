@@ -1,0 +1,10 @@
+
+Lsquid:S1066‹"/Merge this if statement with the enclosing one.(ïØ…âûÿÿÿÿ
+psquid:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÇš
+psquid:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëƒ½#
+psquid:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùâåi
+hsquid:S1301î"KReplace this "switch" statement by "if" statements to increase readability.(èóéÛÿÿÿÿÿ
+squid:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹ûÄ‚üÿÿÿÿ
+Vsquid:S1155ê">Use isEmpty() to check whether the collection is empty or not.(ÏË×é
+[squid:S1155‰">Use isEmpty() to check whether the collection is empty or not.(‰ûè¬ÿÿÿÿÿ
+[squid:S1155İ">Use isEmpty() to check whether the collection is empty or not.(‰ûè¬ÿÿÿÿÿ

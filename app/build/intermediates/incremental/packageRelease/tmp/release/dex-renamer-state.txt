@@ -1,0 +1,4 @@
+#Mon Jun 10 15:29:41 BST 2019
+base.0=C\:\\Users\\JS6845\\Documents\\Android Development\\Examples\\EMDK Examples\\7.3\\BarcodeSample1\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
